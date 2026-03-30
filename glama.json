@@ -1,1 +1,14 @@
-{"name": "MovieOracle", "description": "Film & entertainment \u2014 12 MCP tools for search, ratings, trending, anime", "category": "entertainment", "tags": ["movies", "imdb", "entertainment", "anime"], "tools": 12, "transport": "streamable-http", "endpoint": "https://tooloracle.io/movie/mcp/"}
+{
+  "name": "MovieOracle",
+  "description": "Film & Entertainment Intelligence \u2014 movies, series, actors, ratings, trending, search via MCP",
+  "repository": "https://github.com/ToolOracle/movieoracle",
+  "endpoint": "https://tooloracle.io/movie/mcp/",
+  "tools": 12,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": [
+    "entertainment",
+    "mcp",
+    "ai-agent"
+  ]
+}
