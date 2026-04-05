@@ -1,0 +1,5 @@
+name: MovieOracle
+description: Movie & entertainment data — 10 tools
+endpoint: https://tooloracle.io/movie/mcp/
+transport: streamable-http
+license: MIT
